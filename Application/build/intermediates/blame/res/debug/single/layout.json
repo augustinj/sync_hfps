@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_haze_remove.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_haze_remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\torch_item.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\torch_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\setting_range_item.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\setting_range_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\result_dialog_haze.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\result_dialog_haze.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_panorama.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_panorama.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\information_dialog_single.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\information_dialog_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zsl.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_zsl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lowlight.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_lowlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_sdk_sample.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_camera_sdk_sample.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\result_dialog_lowlight.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\result_dialog_lowlight.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_effect.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_effect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_highspeedvideo.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_highspeedvideo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_yuv.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_yuv.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\setting_list_item.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\setting_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hdr.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_hdr.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_gif.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_gif.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_single.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_torch.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_torch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dof.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_dof.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\setting_dialog_single.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\setting_dialog_single.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ipx.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_ipx.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filter.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\activity_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\result_dialog_dof.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\result_dialog_dof.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\result_dialog_hdr.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\layout\\result_dialog_hdr.xml"
+    }
+]

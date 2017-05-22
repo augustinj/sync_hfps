@@ -1,0 +1,7 @@
+#Fri May 19 09:50:20 CEST 2017
+base.0=C\:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_976d3cc2545c091b8acfd02c77896ae1282a93d2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cec14c50146fa764ceb63dbcd0c30b43d20cb86e\\classes.dex
+base.1=C\:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cec14c50146fa764ceb63dbcd0c30b43d20cb86e
+file.0=C\:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_976d3cc2545c091b8acfd02c77896ae1282a93d2\\classes.dex

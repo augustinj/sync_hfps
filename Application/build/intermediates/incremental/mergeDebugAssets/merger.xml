@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Admin\.android\build-cache\9f5e2ebccf3be7f81591aba67a7d67c25821ceca\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\src\main\assets"/><source path="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\src\debug\assets"/></dataSet></merger>

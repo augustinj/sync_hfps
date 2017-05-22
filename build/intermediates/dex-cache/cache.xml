@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\libs\sdk-v1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\intermediates\transforms\dex\debug\folders\1000\2\sdk-v1.0.0_bc5dd7a08e72a83643b8c6d8ea17804605e552af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\9f5e2ebccf3be7f81591aba67a7d67c25821ceca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1733ed2b7a48b68e658c43bb55619d4ca8758da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9cef330d332561e3dea49a195a31605c8e192e1">
+        <dex dex="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_976d3cc2545c091b8acfd02c77896ae1282a93d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ac9f6afd821389bb1e0800928c3d3a02c4b77f08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\libs\camera-v1.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed9880bd77df72d45d57daa674c57943fbc5a0b7">
+        <dex dex="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\intermediates\transforms\dex\debug\folders\1000\2\camera-v1.2.2_481616a49957d1fa7700e52eb6ac50456075d5f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\9f5e2ebccf3be7f81591aba67a7d67c25821ceca\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7e127f68cb1ae257a1b5bc4e4135b4f70cfad8fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\Admin\Documents\CameraSDK_Sample_v1.2.2\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cec14c50146fa764ceb63dbcd0c30b43d20cb86e\classes.dex" />
+    </item>
+
+</items>

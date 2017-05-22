@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\rectangle.xml",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\easy_camera_gallery_no_item.png",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\drawable\\easy_camera_gallery_no_item.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_image_frame.png",
+        "source": "C:\\Users\\Admin\\Documents\\CameraSDK_Sample_v1.2.2\\Application\\src\\main\\res\\drawable\\bg_image_frame.png"
+    }
+]
